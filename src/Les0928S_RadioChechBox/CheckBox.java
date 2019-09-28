@@ -21,4 +21,3 @@ public class CheckBox {
         Thread.sleep(2000);
     }
 }
-}
